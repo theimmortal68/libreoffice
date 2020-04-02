@@ -1,7 +1,7 @@
 pkgname=libreoffice-jre
-_LOver=6.4.1.2
-pkgver=6.4.1.2
-_pkgver=6.4.1
+_LOver=6.4.2.2
+pkgver=6.4.2.2
+_pkgver=6.4.2
 pkgrel=1
 arch=('x86_64')
 license=('LGPL3')
@@ -131,9 +131,9 @@ source=(${_mirror}/libreoffice{,-help,-translations}-${_LOver}.tar.xz
 	libqxp-0.0.2.tar.xz
 	QR-Code-generator-1.4.0.tar.gz)
 
-md5sums=('3057676fb7f5e0d8583a7c31752dc2b2'
-         '70224f7d73f79bb2154897ffd310ff56'
-         'a2233b0924a3034249f75179a147ef35'
+md5sums=('1e7df8ecc616b778293a90b874d560b1'
+         '24108abfa209da008b1e24d11bea6684'
+         '580c22ac9b84e76cdfdb02287a9728be'
          '69b8d95c009a404462e19f335e650241'
          '35c94d2df8893241173de1d16b6034c0'
          '798b2ffdc8bcfe7bca2cf92b62caf685'
